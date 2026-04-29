@@ -18,4 +18,5 @@ jobs:
           SHOW_TIMEZONE: "True"
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE_PER_DAY: "True"
+          SHOW_LINES_OF_CODE: "True"
           SECTION_NAME: "waka"
