@@ -17,5 +17,5 @@ jobs:
           SHOW_OS: "True"
           SHOW_TIMEZONE: "True"
           SHOW_EDITORS: "True"
-          SHOW_LANGUAGE_PER_DAY: "False"
+          SHOW_LANGUAGE_PER_DAY: "True"
           SECTION_NAME: "waka"
