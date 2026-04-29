@@ -12,9 +12,6 @@
 ---
 
 ### 🌌 WakaTime Session (Time in IDE)
-<p align="center">
-  <img src="https://github-readme-stats-8dzj.vercel.app/api/wakatime?username=dbragga&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
