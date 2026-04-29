@@ -11,8 +11,10 @@
 
 ---
 
-### 🌌 WakaTime Session (Time in IDE)
 
+### 🌌 WakaTime Session (Time in IDE)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ### 🛠️ Specialized Toolset
