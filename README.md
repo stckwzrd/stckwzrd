@@ -14,6 +14,15 @@
 
 ### 🌌 WakaTime Session (Time in IDE)
 <!--START_SECTION:waka-->
+
+```txt
+C                19 hrs 47 mins        ██████████████████████▒░░   89.61 %
+Other            55 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Assembly         44 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+C++              14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+XML              6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+```
+
 <!--END_SECTION:waka-->
 ---
 
