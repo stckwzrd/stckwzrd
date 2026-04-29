@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=220&section=header&text=stckwzrd%20&fontSize=80&theme=tokyonight&animation=twinkling" />
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=7AA2F7&center=true&vCenter=true&width=500&lines=Entering+Ring+0...;Bypassing+EDR...;Patching+binary+at+0x401000...;Success:+Reverse+Engineering+Complete" />
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stckwzrd&theme=tokyonight&area=true&hide_border=true&hide_data=true&bg_color=0d1117" width="100%" />
 </p>
@@ -27,7 +29,6 @@
 </p>
 
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stckwzrd&color=7aa2f7&style=flat-square&label=ENCRYPTED+ACCESS+LOGS" />
 </p>
