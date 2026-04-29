@@ -14,15 +14,88 @@
 
 ### 🌌 WakaTime Session (Time in IDE)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%203%20mins-blue?style=flat)
 
-```txt
-C                19 hrs 47 mins        ██████████████████████▒░░   89.61 %
-Other            55 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Assembly         44 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-C++              14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-XML              6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-204.88%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 4.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 105 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 21 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                104 commits         █████████████░░░░░░░░░░░░   52.00 % 
+🌆 Daytime                90 commits          ███████████░░░░░░░░░░░░░░   45.00 % 
+🌃 Evening                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   71 commits          █████████░░░░░░░░░░░░░░░░   35.50 % 
+Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Wednesday                43 commits          █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+Thursday                 32 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Friday                   34 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+C                        19 hrs 47 mins      ██████████████████████░░░   89.61 % 
+Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Assembly                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+C++                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+
+🔥 Editors: 
+VS Code                  21 hrs 39 mins      █████████████████████████   98.08 % 
+Visual Studio            25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+
+🐱‍💻 Projects: 
+driv                     14 hrs 10 mins      ████████████████░░░░░░░░░   64.19 % 
+MyDriver2                7 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.26 % 
+solution-center          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+
+💻 Operating System: 
+Windows                  22 hrs 4 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               7 repos             ██████████░░░░░░░░░░░░░░░   38.89 % 
+Python                   5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/stckwzrd/stckwzrd/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/04/2026 16:28:06 UTC
 <!--END_SECTION:waka-->
 ---
 
