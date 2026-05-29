@@ -14,13 +14,11 @@
 
 ### 🌌 WakaTime Session (Time in IDE)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2031%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-207.48%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 4.5 kB Used in GitHub's Storage 
+> 📦 4.4 kB Used in GitHub's Storage 
  > 
 > 🏆 113 Contributions in the Year 2026
  > 
@@ -35,7 +33,7 @@
 ![Lines of Code chart](https://raw.githubusercontent.com/stckwzrd/stckwzrd/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 02:44:52 UTC
+ Last Updated on 29/05/2026 02:48:46 UTC
 <!--END_SECTION:waka-->
 ---
 
