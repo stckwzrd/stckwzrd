@@ -1,48 +1,52 @@
-<h1 align="center"> SYSTEM_STATUS: ONLINE | ID: stckwzrd </h1>
+<p align="center">
+  <img src="assets/banner.svg" alt="stckwzrd" width="100%" />
+</p>
+
+Software engineer working on reverse engineering and low-level development, mostly in C and C++ on Windows and Linux.
+
+## Focus
+
+| Area | Details |
+|:--|:--|
+| Reverse engineering | Static and dynamic analysis of native binaries, protection and obfuscation analysis |
+| Low-level development | C, C++ and Assembly; Windows internals and the PE format |
+| Tooling and automation | Utilities, bots and internal services in C#, Python and TypeScript |
+
+## Stack
+
+| Category | Technologies |
+|:--|:--|
+| Languages | C, C++, Assembly, C#, Python, TypeScript, Rust |
+| Analysis | IDA Pro, Ghidra, x64dbg |
+| Platforms | Linux (Arch, KDE Plasma), Windows |
+| Infrastructure | Git, Docker, QEMU/KVM |
+
+## Activity
+
+<!--START_SECTION:stats-->
+```text
+┌─[ Language distribution ]────────────────────┐
+│ C++         [######################]   31.5% │
+│ TypeScript  [####################..]   28.3% │
+│ Python      [################......]   22.7% │
+│ C           [######................]    8.5% │
+│ C#          [##....................]    3.2% │
+│ HTML        [#.....................]    1.7% │
+│ Shell       [#.....................]    1.6% │
+│ Other       [##....................]    2.6% │
+└──────────────────────────────────────────────┘
+```
+
+| Metric | Value | Note |
+|:--|--:|:--|
+| Contributions | **400** | last 12 months |
+| Repositories | **45** | 17 public / 28 private |
+| Languages | **18** | 14.6 MB of source analysed |
+| Primary language | **C++** | 32% of all code |
+
+<sub>Generated from the GitHub API, last updated 2026-10-27 13:01 UTC.</sub>
+<!--END_SECTION:stats-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=220&section=header&text=stckwzrd%20&fontSize=80&theme=tokyonight&animation=twinkling" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=500&color=9ECE6A&center=true&vCenter=true&width=600&lines=Analyzing+control+flow+graph...;Binary+is+obfuscated...;Is+it+Themida+or+VMProtect%3F;Defeating+anti-debug+checks...;I+finally+see+the+logic!" />
-</p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stckwzrd&theme=tokyonight&area=true&hide_border=true&hide_data=true&bg_color=0d1117" width="100%" />
-</p>
-
----
-
-
-### 🌌 WakaTime Session (Time in IDE)
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.12%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 29.2 kB Used in GitHub's Storage 
- > 
-> 🏆 400 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 28 Private Repositories 
- > 
-
- Last Updated on 27/10/2026 03:27:47 UTC
-<!--END_SECTION:waka-->
----
-
-### 🛠️ Specialized Toolset
-<p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-%232E3A44.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDA_Pro-4B0082?style=for-the-badge&logo=idapro&logoColor=white" />
-  <img src="https://img.shields.io/badge/x64dbg-00CED1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stckwzrd&color=7aa2f7&style=flat-square&label=ENCRYPTED+ACCESS+LOGS" />
 </p>

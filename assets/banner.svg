@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 385" width="900" height="385" role="img" aria-label="stckwzrd">
+<title>stckwzrd</title>
+<style>text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace;white-space:pre}.addr{fill:#6e7681}.bytes{fill:#545d68}.mn{fill:#7aa2f7}.op{fill:#c9d1d9}.cm{fill:#6e7681}.tag{fill:#8b949e;font-size:13px}.dim{fill:#545d68;font-size:13px}.cur{animation:blink 1.1s steps(1) infinite}@keyframes blink{0%{fill-opacity:1}50%{fill-opacity:0}}@keyframes l0{0%,6.25%{opacity:0}9.38%,92%{opacity:1}97%,100%{opacity:0}}.l0{opacity:0;animation:l0 16s linear infinite}@keyframes l1{0%,11.88%{opacity:0}15.00%,92%{opacity:1}97%,100%{opacity:0}}.l1{opacity:0;animation:l1 16s linear infinite}@keyframes l2{0%,17.50%{opacity:0}20.62%,92%{opacity:1}97%,100%{opacity:0}}.l2{opacity:0;animation:l2 16s linear infinite}@keyframes l3{0%,23.12%{opacity:0}26.25%,92%{opacity:1}97%,100%{opacity:0}}.l3{opacity:0;animation:l3 16s linear infinite}@keyframes l4{0%,28.75%{opacity:0}31.87%,92%{opacity:1}97%,100%{opacity:0}}.l4{opacity:0;animation:l4 16s linear infinite}@keyframes l5{0%,34.38%{opacity:0}37.50%,92%{opacity:1}97%,100%{opacity:0}}.l5{opacity:0;animation:l5 16s linear infinite}@keyframes l6{0%,40.00%{opacity:0}43.12%,92%{opacity:1}97%,100%{opacity:0}}.l6{opacity:0;animation:l6 16s linear infinite}</style>
+<defs><linearGradient id="sweep" gradientUnits="userSpaceOnUse" x1="-260" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#98a4b5"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#98a4b5"/><animate attributeName="x1" values="-260;820;820" keyTimes="0;0.65;1" dur="9s" repeatCount="indefinite"/><animate attributeName="x2" values="0;1080;1080" keyTimes="0;0.65;1" dur="9s" repeatCount="indefinite"/></linearGradient><linearGradient id="rule" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#7aa2f7" stop-opacity="0.9"/><stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="899" height="384" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="40" y="64" font-size="20" fill="url(#sweep)">         __       __                           __</text>
+<text x="40" y="89" font-size="20" fill="url(#sweep)">   _____/ /______/ /___      ______  _________/ /</text>
+<text x="40" y="114" font-size="20" fill="url(#sweep)">  / ___/ __/ ___/ //_/ | /| / /_  / / ___/ __  /</text>
+<text x="40" y="139" font-size="20" fill="url(#sweep)"> (__  ) /_/ /__/ ,&lt;  | |/ |/ / / /_/ /  / /_/ /</text>
+<text x="40" y="164" font-size="20" fill="url(#sweep)">/____/\__/\___/_/|_| |__/|__/ /___/_/   \__,_/</text>
+<text class="tag" x="700" y="78">reverse engineering</text>
+<text class="tag" x="700" y="102">low-level development</text>
+<text class="tag" x="700" y="126">windows internals</text>
+<text class="dim" x="700" y="156">x86-64 / PE / ELF</text>
+<rect x="40" y="218" width="820" height="1" fill="url(#rule)"/>
+<text class="l0" x="40" y="246" font-size="13" xml:space="preserve"><tspan class="addr">0x00401000</tspan>  <tspan class="bytes">55            </tspan>  <tspan class="mn">push </tspan> <tspan class="op">rbp         </tspan><tspan class="cm"></tspan></text>
+<text class="l1" x="40" y="265" font-size="13" xml:space="preserve"><tspan class="addr">0x00401001</tspan>  <tspan class="bytes">48 89 e5      </tspan>  <tspan class="mn">mov  </tspan> <tspan class="op">rbp, rsp    </tspan><tspan class="cm"></tspan></text>
+<text class="l2" x="40" y="284" font-size="13" xml:space="preserve"><tspan class="addr">0x00401004</tspan>  <tspan class="bytes">48 83 ec 20   </tspan>  <tspan class="mn">sub  </tspan> <tspan class="op">rsp, 0x20   </tspan><tspan class="cm"></tspan></text>
+<text class="l3" x="40" y="303" font-size="13" xml:space="preserve"><tspan class="addr">0x00401008</tspan>  <tspan class="bytes">e8 f3 02 00 00</tspan>  <tspan class="mn">call </tspan> <tspan class="op">sub_401300  </tspan><tspan class="cm">; stage 1</tspan></text>
+<text class="l4" x="40" y="322" font-size="13" xml:space="preserve"><tspan class="addr">0x0040100d</tspan>  <tspan class="bytes">85 c0         </tspan>  <tspan class="mn">test </tspan> <tspan class="op">eax, eax    </tspan><tspan class="cm"></tspan></text>
+<text class="l5" x="40" y="341" font-size="13" xml:space="preserve"><tspan class="addr">0x0040100f</tspan>  <tspan class="bytes">75 0a         </tspan>  <tspan class="mn">jne  </tspan> <tspan class="op">loc_40101b  </tspan><tspan class="cm">; verdict</tspan></text>
+<text class="l6" x="40" y="360" font-size="13" xml:space="preserve"><tspan class="addr">$ </tspan><tspan class="cur" fill="#c9d1d9">_</tspan></text>
+</svg>
