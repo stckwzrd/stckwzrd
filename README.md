@@ -10,30 +10,26 @@ Software engineer working on reverse engineering and low-level development, most
 |:--|:--|
 | Reverse engineering | Static and dynamic analysis of native binaries, protection and obfuscation analysis |
 | Low-level development | C, C++ and Assembly; Windows internals and the PE format |
-| Tooling and automation | Utilities, bots and internal services in C#, Python and TypeScript |
+| Tooling and automation | Utilities, bots and internal services in C++ and C |
 
 ## Stack
 
 | Category | Technologies |
 |:--|:--|
-| Languages | C, C++, Assembly, C#, Python, TypeScript, Rust |
+| Languages | C, C++, Assembly |
 | Analysis | IDA Pro, Ghidra, x64dbg |
 | Platforms | Linux (Arch, KDE Plasma), Windows |
-| Infrastructure | Git, Docker, QEMU/KVM |
+| Infrastructure | QEMU/KVM |
 
 ## Activity
 
 <!--START_SECTION:stats-->
 ```text
 ┌─[ Language distribution ]────────────────────┐
-│ C++         [######################]   31.5% │
-│ TypeScript  [####################..]   28.3% │
-│ Python      [################......]   22.7% │
-│ C           [######................]    8.5% │
-│ C#          [##....................]    3.2% │
-│ HTML        [#.....................]    1.7% │
-│ Shell       [#.....................]    1.6% │
-│ Other       [##....................]    2.6% │
+│ C++         [######################]   80.5% │
+│ С           [##....................]   11%   │
+│ Shell       [#.....................]   8.5%  │
+│ Other       [##....................]   2.6%  │
 └──────────────────────────────────────────────┘
 ```
 
