@@ -23,7 +23,6 @@ Software engineer working on reverse engineering and low-level development, most
 
 ## Activity
 
-<!--START_SECTION:stats-->
 ```text
 ┌─[ Language distribution ]────────────────────┐
 │ C++         [######################]   80.5% │
@@ -40,8 +39,6 @@ Software engineer working on reverse engineering and low-level development, most
 | Languages | **18** | 14.6 MB of source analysed |
 | Primary language | **C++** | 80.5% of all code |
 
-<sub>Generated from the GitHub API, last updated 2026-10-27 13:09 UTC.</sub>
-<!--END_SECTION:stats-->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stckwzrd&theme=tokyonight&area=true&hide_border=true&hide_data=true&bg_color=0d1117" width="100%" />
