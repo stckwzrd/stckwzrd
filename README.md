@@ -42,9 +42,9 @@ Software engineer working on reverse engineering and low-level development, most
 | Contributions | **400** | last 12 months |
 | Repositories | **45** | 17 public / 28 private |
 | Languages | **18** | 14.6 MB of source analysed |
-| Primary language | **C++** | 32% of all code |
+| Primary language | **C++** | 31% of all code |
 
-<sub>Generated from the GitHub API, last updated 2026-10-27 13:01 UTC.</sub>
+<sub>Generated from the GitHub API, last updated 2026-10-27 13:09 UTC.</sub>
 <!--END_SECTION:stats-->
 
 <p align="center">
